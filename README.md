@@ -57,7 +57,7 @@ I create dashboards, predictive models, and automated workflows to empower teams
 
 ## 📫 Connect With Me
 - GitHub: [olufemiolamoyegun](https://github.com/olufemiolamoyegun)  
-- LinkedIn: [Olufemi Olamoyegun](https://www.linkedin.com/in/olufemiolamoyegun)  
+- LinkedIn: [Olufemi Olamoyegun](https://www.linkedin.com/in/olufemi-olamoyegun)  
 - Medium: [Olufemi Writes](https://tr.ee/VYsIakRdQq)  
 - YouTube: [Olufemi Builds](https://youtube.com/@olufemibuilds?si=uPrT-rkD5DEfck1U)
 
