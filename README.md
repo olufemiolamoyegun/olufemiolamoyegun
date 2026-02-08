@@ -1,43 +1,57 @@
-# Hi there, I’m Olufemi Olamoyegun 👋
+# Hi, I’m Olufemi Olamoyegun 👋
 
-**Data Analyst | Power BI & Microsoft Fabric | Python & SQL | Excel Automation | Analytics Educator**
+**Data Analyst | Power BI & Microsoft Fabric | Python & SQL | Excel Automation | Product, Growth & Workforce Analytics**
 
-I transform raw data into actionable insights for better business decisions.  
-I create dashboards, predictive models, and automated workflows to empower teams and mentor aspiring analysts.  
+I transform raw data into **actionable business insights** that support better decisions.  
+My work spans **growth analytics, HR analytics, and operational intelligence**, with a strong focus on storytelling, clarity, and impact.
 
 ---
 
 ## 🔭 What I Do
-- Build **interactive dashboards** for operational and financial data using **Power BI** and **Microsoft Fabric**.  
-- Conduct **data analysis** and **visual storytelling** using **Python**, **SQL**, and **Excel**.  
-- Automate reporting workflows and KPI monitoring for organizations.  
-- Mentor analysts, business users, and the wider community through tutorials, GitHub projects, Medium articles, and YouTube videos.  
+- Build **interactive dashboards** using **Power BI** and **Microsoft Fabric**
+- Perform **data analysis & experimentation** with **Python and SQL**
+- Design **KPIs and metrics** for executives and operational teams
+- Automate reporting workflows and analytics pipelines
+- Create learning content and mentor aspiring data analysts
 
 ---
 
 ## 🚀 Featured Projects
 
-### **1. Customer Support Performance & Call Center Analytics (Power BI)**
-- End-to-end analytics tracking KPIs, customer service metrics, and operational insights.  
-[View Project](https://github.com/olufemiolamoyegun/Project---PWC-Call-Centre-Solution-with-Power-BI)
+### 📞 PwC Call Centre Analytics (Power BI)
+Operational performance analysis covering CSAT, ASA, AHT, and agent productivity  
+🔗 https://github.com/olufemiolamoyegun/Project---PWC-Call-Centre-Solution-with-Power-BI
 
-### **2. Business Performance Analytics Project**
-- Data cleaning, KPI design, and dashboard insights for decision support.  
-[View Project](https://github.com/olufemiolamoyegun/CWW-TECH-INDIVIDUAL-PROJECT)
+### 📈 Growth Analytics & A/B Testing (Python)
+End-to-end A/B testing with statistical validation and business recommendations  
+🔗 https://github.com/olufemiolamoyegun/Growth-Analytics-AB-Testing
 
-### **3. Sales & Revenue Analytics Using Excel**
-- Trend analysis, product performance, and regional insights with Excel dashboards.  
-[View Project](https://github.com/olufemiolamoyegun/United-States-Addidas-Sales-Project-using-Excel)
+### 🎵 Spotify Streaming Analytics (Python)
+Exploratory data analysis of music engagement and popularity drivers  
+🔗 https://github.com/olufemiolamoyegun/Spotify-Tracks-Analysis-Usin
 
-### **4. HR Analytics & Salary Analysis Using SQL**
-- SQL-based workforce insights, salary distribution, and employee metrics.  
-[View Project](https://github.com/olufemiolamoyegun/Employees-Demographics-and-Salary-Analysis-using-SQL)
-
-### **5. Exploratory Data Analysis of Music Streaming Data**
-- Python & SQL-based EDA revealing patterns, trends, and actionable insights.  
-[View Project](https://github.com/olufemiolamoyegun/Spotify-Tracks-Analysis-Usin)
+### 👔 HR Analytics & Workforce Intelligence (SQL + Power BI)
+Enterprise-style workforce analytics focused on attrition, engagement, and compensation  
+🔗 https://github.com/olufemiolamoyegun/Employees-Demographics-and-Salary-Analysis-using-SQL
 
 ---
+
+## 📊 Skills & Tools
+- **BI & Visualization:** Power BI, DAX, Power Query, Excel Advanced
+- **Analytics & Programming:** Python, SQL, Pandas, NumPy, Statsmodels
+- **Data Engineering:** Microsoft Fabric, ETL, Data Modeling
+- **Business Analytics:** KPI design, experimentation, workforce analytics
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/olufemiolamoyegun
+- LinkedIn: https://www.linkedin.com/in/olufemi-olamoyegun
+- Medium: https://tr.ee/VYsIakRdQq
+- YouTube: https://youtube.com/@olufemibuilds
+
+✨ *Turning data into decisions.*
+
 
 ## 📊 Skills & Tools
 - **Data Analysis & BI:** Power BI, Tableau, Excel Advanced, Power Query, Power Pivot, DAX  
