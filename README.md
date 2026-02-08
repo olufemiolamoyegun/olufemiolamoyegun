@@ -32,7 +32,7 @@ Exploratory data analysis of music engagement and popularity drivers
 
 ### 👔 HR Analytics & Workforce Intelligence (SQL + Power BI)
 Enterprise-style workforce analytics focused on attrition, engagement, and compensation  
-🔗 https://github.com/olufemiolamoyegun/Employees-Demographics-and-Salary-Analysis-using-SQL
+🔗 https://github.com/olufemiolamoyegun/-HR-Analytics-Workforce-Intelligence
 
 ---
 
