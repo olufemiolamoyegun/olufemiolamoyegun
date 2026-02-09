@@ -1,17 +1,20 @@
 # Hi, I’m Olufemi Olamoyegun 👋
 
-**Data Analyst | Power BI & Microsoft Fabric | Python & SQL | Excel Automation | Product, Growth & Workforce Analytics**
+**Data Analyst | Power BI & Microsoft Fabric | Python & SQL | Product, Growth & Workforce Analytics**
 
-I transform raw data into **actionable business insights** that support better decisions.  
-My work spans **growth analytics, HR analytics, and operational intelligence**, with a strong focus on storytelling, clarity, and impact.
+I’m a Data Analyst and Analytics Educator who transforms raw business and operational data into **clear, decision-ready insights** using **Power BI, SQL, Python, Excel, and Microsoft Fabric**.
+
+I specialize in building **executive dashboards**, **KPI frameworks**, and **data stories** that drive measurable improvements in performance, growth, and workforce outcomes.
+
+I’m an active contributor to the **Microsoft Fabric Community** and **Microsoft Tech Community**, helping professionals solve real-world analytics problems and improve reporting practices.
 
 ---
 
 ## 🔭 What I Do
 - Build **interactive dashboards** using **Power BI** and **Microsoft Fabric**
-- Perform **data analysis & experimentation** with **Python and SQL**
-- Design **KPIs and metrics** for executives and operational teams
-- Automate reporting workflows and analytics pipelines
+- Perform **data analysis, experimentation, and A/B testing** with **Python & SQL**
+- Design **KPIs and performance metrics** for executives and operations teams
+- Automate analytics workflows and reporting pipelines
 - Create learning content and mentor aspiring data analysts
 
 ---
@@ -19,62 +22,65 @@ My work spans **growth analytics, HR analytics, and operational intelligence**, 
 ## 🚀 Featured Projects
 
 ### 📞 PwC Call Centre Analytics (Power BI)
-Operational performance analysis covering CSAT, ASA, AHT, and agent productivity  
-🔗 https://github.com/olufemiolamoyegun/Project---PWC-Call-Centre-Solution-with-Power-BI
+Operational performance analysis covering **CSAT, ASA, AHT**, and **agent productivity**  
+🔗 [View Project](https://github.com/olufemiolamoyegun/Project---PWC-Call-Centre-Solution-with-Power-BI)
+
+---
 
 ### 📈 Growth Analytics & A/B Testing (Python)
-End-to-end A/B testing with statistical validation and business recommendations  
-🔗 https://github.com/olufemiolamoyegun/Growth-Analytics-A-B-Testing
+End-to-end A/B testing with **statistical validation**, **conversion analysis**, and **business recommendations**  
+🔗 [View Project](https://github.com/olufemiolamoyegun/Growth-Analytics-AB-Testing)
+
+---
 
 ### 🎵 Spotify Streaming Analytics (Python)
-Exploratory data analysis of music engagement and popularity drivers  
-🔗 https://github.com/olufemiolamoyegun/-Spotify-Streaming-Analytics-Python-
+Exploratory data analysis uncovering **engagement drivers**, **popularity trends**, and user behavior  
+🔗 [View Project](https://github.com/olufemiolamoyegun/Spotify-Tracks-Analysis-Usin)
+
+---
 
 ### 👔 HR Analytics & Workforce Intelligence (SQL + Power BI)
-Enterprise-style workforce analytics focused on attrition, engagement, and compensation  
-🔗 https://github.com/olufemiolamoyegun/-HR-Analytics-Workforce-Intelligence
+Enterprise-style workforce analytics focused on **attrition**, **engagement**, and **compensation**  
+🔗 [View Project](https://github.com/olufemiolamoyegun/Employees-Demographics-and-Salary-Analysis-using-SQL)
 
 ---
 
 ## 📊 Skills & Tools
-- **BI & Visualization:** Power BI, DAX, Power Query, Excel Advanced
-- **Analytics & Programming:** Python, SQL, Pandas, NumPy, Statsmodels
-- **Data Engineering:** Microsoft Fabric, ETL, Data Modeling
-- **Business Analytics:** KPI design, experimentation, workforce analytics
 
----
+### Analytics & BI
+- Power BI  
+- Excel Analytics  
+- KPI Design  
+- Data Storytelling  
 
-## 📫 Connect With Me
-- GitHub: https://github.com/olufemiolamoyegun
-- LinkedIn: https://www.linkedin.com/in/olufemi-olamoyegun
-- Medium: https://tr.ee/VYsIakRdQq
-- YouTube: https://youtube.com/@olufemibuilds
+### Data & Engineering
+- SQL  
+- Python  
+- ETL  
+- Data Modeling  
+- Microsoft Fabric  
 
-✨ *Turning data into decisions.*
-
-
-## 📊 Skills & Tools
-- **Data Analysis & BI:** Power BI, Tableau, Excel Advanced, Power Query, Power Pivot, DAX  
-- **Data Engineering & ETL:** Microsoft Fabric (Dataflows, Pipelines), SQL, Python  
-- **Reporting & Forecasting:** KPI dashboards, predictive models, trend analysis  
-- **Data Governance & Quality:** Data cleaning, validation, compliance  
-- **Community & Mentorship:** GitHub tutorials, Medium articles, YouTube walkthroughs  
+### Business Analytics
+- Operational Analytics  
+- Performance Measurement  
+- Stakeholder Reporting  
 
 ---
 
 ## 🏆 Community Contributions
-- Active in **Microsoft Fabric Community** & **Tech Community**  
-- Published analytics tutorials, dashboards, and project walkthroughs  
-- Shared templates, dashboards, and learning resources for aspiring analysts  
+- **Microsoft Fabric Community:**  
+  https://community.fabric.microsoft.com/t5/user/viewprofilepage/user-id/843006
+- **Microsoft Tech Community:**  
+  https://techcommunity.microsoft.com/users/olufemio/1895696
+- Published analytics tutorials, dashboards, and walkthroughs
+- Shared templates and learning resources for aspiring analysts
 
 ---
 
 ## 📫 Connect With Me
-- GitHub: [olufemiolamoyegun](https://github.com/olufemiolamoyegun)  
-- LinkedIn: [Olufemi Olamoyegun](https://www.linkedin.com/in/olufemi-olamoyegun)  
-- Medium: [Olufemi Writes](https://tr.ee/VYsIakRdQq)  
-- YouTube: [Olufemi Builds](https://youtube.com/@olufemibuilds?si=uPrT-rkD5DEfck1U)
+- GitHub: https://github.com/olufemiolamoyegun  
+- LinkedIn: https://www.linkedin.com/in/olufemiolamoyegun  
+- Medium: https://medium.com/@olufemiolamoyegun  
+- YouTube: https://youtube.com/@olufemibuilds  
 
----
-
-✨ **Let’s turn data into smarter business decisions together!**
+✨ *Let’s turn data into smarter business decisions.*
